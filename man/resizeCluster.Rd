@@ -28,4 +28,3 @@ Resize an Azure cloud-enabled cluster.
 \examples{
 resizeCluster(cluster, dedicatedMin = 2, dedicatedMax = 6, dedicatedMin = 2, dedicatedMax = 6, algorithm = "QUEUE", timeInterval = "PT10M")
 }
-

@@ -30,4 +30,3 @@ generateCredentialsConfig("test_config.json")
 generateCredentialsConfig("test_config.json", batchAccount = "testbatchaccount", batchKey = "test_batch_account_key", batchUrl = "http://testbatchaccount.azure.com", storageAccount = "teststorageaccount", storageKey = "test_storage_account_key")
 }
 }
-

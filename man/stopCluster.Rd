@@ -16,4 +16,3 @@ Deletes the cluster from your Azure account.
 clusterConfiguration <- makeCluster("cluster_settings.json")
 stopCluster(clusterConfiguration)
 }
-

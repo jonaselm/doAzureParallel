@@ -15,4 +15,3 @@ Get a list of job statuses from the given job ids
 \examples{
 getJobList(c("job-001", "job-002"))
 }
-

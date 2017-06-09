@@ -20,4 +20,3 @@ Download the results of the job
 \examples{
 getJobResult(jobId = "job-001")
 }
-

@@ -25,4 +25,3 @@ Creates an Azure cloud-enabled cluster.
 \examples{
 cluster <- makeCluster("cluster_config.json", fullName = TRUE, wait = TRUE)
 }
-

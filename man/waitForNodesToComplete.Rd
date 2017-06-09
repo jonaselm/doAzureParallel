@@ -17,4 +17,3 @@ Polling method to check status of cluster boot up
 \examples{
 waitForNodesToComplete(clusterId = "testCluster", timeout = 3600)
 }
-
